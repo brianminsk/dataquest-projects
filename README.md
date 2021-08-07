@@ -1,6 +1,10 @@
 # dataquest-projects
+
+## Description ##
 Projects I have completed or I am working on from the Dataquest.io online learning website.
 
+
+## Licence ##
 I retain all rights to this source code and no one may reproduce, distribute, or create derivative works from this work.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
