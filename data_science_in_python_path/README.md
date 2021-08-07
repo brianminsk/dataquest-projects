@@ -8,7 +8,7 @@ I am a Python expert and skipped this section of this path but when I started do
 
 ### Python for Data Science: Fundamentals Part I & II ###
 
-#### **project01.ipynb** ####
+#### **project01.ipynb** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brianminsk/dataquest-projects/HEAD) ####
 
 See [Guided Project: Profitable App Profiles for the App Store and Google Play Markets](https://app.dataquest.io/c/112/m/350/guided-project%3A-profitable-app-profiles-for-the-app-store-and-google-play-markets/1/analyzing-mobile-app-data).
 
