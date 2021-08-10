@@ -3,6 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - ipycytoscape>=1.0.3
-  - itables>=0.2
+  - itables>=0.3.0
   - pandas>=1.2.4
   - jupyterlab=3
