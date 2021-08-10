@@ -7,5 +7,5 @@ dependencies:
   - pandas>=1.2.4
   - jupyterlab=3
   - pip
-  pip:
-  - itables==0.3.0
+  - pip:
+    - itables==0.3.0
