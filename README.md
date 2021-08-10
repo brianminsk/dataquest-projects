@@ -3,6 +3,8 @@
 ## Description ##
 Projects I have completed or I am working on from the Dataquest.io online learning website.
 
+Click to run the Jupyter notebooks in this repository online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brianminsk/dataquest-projects/HEAD)
+
 
 ## Licence ##
 I retain all rights to this source code and no one may reproduce, distribute, or create derivative works from this work.
