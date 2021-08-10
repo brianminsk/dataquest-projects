@@ -1,0 +1,7 @@
+name: ipycytoscape
+channels:
+  - conda-forge
+dependencies:
+  - ipycytoscape>=1.0.3
+  - itables>=0.3.0
+  - jupyterlab=3
