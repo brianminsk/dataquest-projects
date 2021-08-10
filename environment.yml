@@ -1,8 +1,11 @@
-name: ipycytoscape
+name: dataquest_env
 channels:
   - conda-forge
 dependencies:
   - ipycytoscape>=1.0.3
-  - itables>=0.3.0
+  # - itables>=0.3.0
   - pandas>=1.2.4
   - jupyterlab=3
+  - pip
+  pip:
+  - itables==0.3.0
