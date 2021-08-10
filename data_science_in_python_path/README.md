@@ -1,6 +1,6 @@
 # Projects for the Dataquest Data Science in Python path #
 
-The projects in this directory, generally Jupyter Notebooks, are ones I completed or I am working on for the Dataquest Data Science in Python series of courses. See https://app.dataquest.io/path/data-scientist
+The projects in this directory, generally Jupyter Notebooks, are ones I completed or I am working on for the Dataquest Data Science in Python series of courses. See <https://app.dataquest.io/path/data-scientist>
 
 ## Python Introduction ##
 
