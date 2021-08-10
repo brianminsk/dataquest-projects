@@ -4,4 +4,5 @@ channels:
 dependencies:
   - ipycytoscape>=1.0.3
   - itables>=0.3.0
+  - pandas>=1.2.4
   - jupyterlab=3
